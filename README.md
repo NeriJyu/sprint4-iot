@@ -92,7 +92,7 @@ O diagrama da arquitetura da solução está dividido em três camadas principai
 ## 📺 Demonstração em Vídeo
 
 Confira a demonstração do projeto no YouTube:
-   👉 [https://www.youtube.com/watch?v=hS-LmkYQc8U](https://www.youtube.com/watch?v=hS-LmkYQc8U)
+   👉 [https://youtu.be/rcrYZ053t7M](https://youtu.be/rcrYZ053t7M)
 
 ---
 
